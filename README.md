@@ -1,3 +1,4 @@
+
 # CityScapesUdacityGradParty
 Training in Cityscapes dataset, implement semantic segmentation to detect objects like trees, buildings, roads, sky, cars, pedestrians, bicycles, stop signs, and traffic lights.
 
@@ -6,3 +7,7 @@ In semantic segmentation, each object is painted with tiny pixels that make up a
 Here is the youtube link from my own camera with good augmented results:
 
 https://youtu.be/KR8NtYNjYO0
+
+Also for comparison, here is the youtube link with SSD object detection:
+
+https://youtu.be/knpfYKNxCvQ
